@@ -1,5 +1,4 @@
-This contains the code for **Image Classification with OpenCV for Android**. For more information - visit [**Image Classification with OpenCV for Android**](https://www.learnopencv.com/image-classification-with-opencv-for-android/)
-
+This contains the code for **Image Classification with OpenCV for Android**. 
 
 ## Getting Started
 
@@ -166,13 +165,3 @@ python3 MobileNetV2Conversion.py --input_image <image_name>
 ```bash
 python3 MobileNetV2Conversion.py
 ```
-
-# AI Courses by OpenCV
-
-Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
-
-<a href="https://opencv.org/courses/">
-<p align="center">
-<img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
-</p>
-</a>
